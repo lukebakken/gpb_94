@@ -1,4 +1,5 @@
-LOCAL_DEPS = an_app
-TEST_DEPS = sync meck
+PROJECT = gpb_94
+PROJECT_DESCRIPTION = New project
+PROJECT_VERSION = 0.0.1
 
 include erlang.mk
